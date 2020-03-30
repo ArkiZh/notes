@@ -1,0 +1,62 @@
+* 算法训练
+** 准备事项
+*** 精通一件事的步骤：
+《Outerliers》
+
+**** Chunk it up （切碎知识点）
+1. Data Structure
+Array
+Stack/Queue
+PriorityQueue(heap)
+LinkedList(single/double)
+Tree /Binary Tree
+Binary Search Tree
+HashTable
+Disjoint Set
+Trie
+BloomFilter
+LRU Cache
+
+2. Algorithm
+General Coding
+In-order/Pre-order/Post-order traversal
+Greedy
+Recursion/Backtrace
+Breadth-first search
+Depth-first Search
+Divide and Conquer
+Dynamic Programming
+Binary Search
+Graph
+**** Deliberate practicing （刻意练习）
+刻意练习
+练习缺陷、弱点地方
+不舒服、不爽、枯燥时候要坚持
+**** Feedback （反馈）
+即时反馈
+主动型反馈（自己去找）：高手代码
+被动式反馈（高手指点你）：Code review
+
+*** 切题四件套
+1. Clarification
+2. Possible solutions:
+   + Compare(time/space)
+   + optimal
+3. Coding
+4. Test cases
+
+*** 复杂度
+**** 时间复杂度
+Master Theorem（主定律公式）
+
+
+**** 空间复杂度
+
+** 数组和链表
+*** 练习题目
+reverse-linked-list
+swap-nodes-in-pares
+linked-list-cycle
+linked-list-cycle-ii
+reverse-nodes-in-k-group
+
