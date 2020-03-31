@@ -1,9 +1,9 @@
-* Ëã·¨ÑµÁ·
-** ×¼±¸ÊÂÏî
-*** ¾«Í¨Ò»¼şÊÂµÄ²½Öè£º
-¡¶Outerliers¡·
+* ç®—æ³•è®­ç»ƒ
+** å‡†å¤‡äº‹é¡¹
+*** ç²¾é€šä¸€ä»¶äº‹çš„æ­¥éª¤ï¼š
+ã€ŠOuterliersã€‹
 
-**** Chunk it up £¨ÇĞËéÖªÊ¶µã£©
+**** Chunk it up ï¼ˆåˆ‡ç¢çŸ¥è¯†ç‚¹ï¼‰
 1. Data Structure
 Array
 Stack/Queue
@@ -28,16 +28,16 @@ Divide and Conquer
 Dynamic Programming
 Binary Search
 Graph
-**** Deliberate practicing £¨¿ÌÒâÁ·Ï°£©
-¿ÌÒâÁ·Ï°
-Á·Ï°È±Ïİ¡¢ÈõµãµØ·½
-²»Êæ·ş¡¢²»Ë¬¡¢¿İÔïÊ±ºòÒª¼á³Ö
-**** Feedback £¨·´À¡£©
-¼´Ê±·´À¡
-Ö÷¶¯ĞÍ·´À¡£¨×Ô¼ºÈ¥ÕÒ£©£º¸ßÊÖ´úÂë
-±»¶¯Ê½·´À¡£¨¸ßÊÖÖ¸µãÄã£©£ºCode review
+**** Deliberate practicing ï¼ˆåˆ»æ„ç»ƒä¹ ï¼‰
+åˆ»æ„ç»ƒä¹ 
+ç»ƒä¹ ç¼ºé™·ã€å¼±ç‚¹åœ°æ–¹
+ä¸èˆ’æœã€ä¸çˆ½ã€æ¯ç‡¥æ—¶å€™è¦åšæŒ
+**** Feedback ï¼ˆåé¦ˆï¼‰
+å³æ—¶åé¦ˆ
+ä¸»åŠ¨å‹åé¦ˆï¼ˆè‡ªå·±å»æ‰¾ï¼‰ï¼šé«˜æ‰‹ä»£ç 
+è¢«åŠ¨å¼åé¦ˆï¼ˆé«˜æ‰‹æŒ‡ç‚¹ä½ ï¼‰ï¼šCode review
 
-*** ÇĞÌâËÄ¼şÌ×
+*** åˆ‡é¢˜å››ä»¶å¥—
 1. Clarification
 2. Possible solutions:
    + Compare(time/space)
@@ -45,18 +45,19 @@ Graph
 3. Coding
 4. Test cases
 
-*** ¸´ÔÓ¶È
-**** Ê±¼ä¸´ÔÓ¶È
-Master Theorem£¨Ö÷¶¨ÂÉ¹«Ê½£©
+*** å¤æ‚åº¦
+**** æ—¶é—´å¤æ‚åº¦
+Master Theoremï¼ˆä¸»å®šå¾‹å…¬å¼ï¼‰
 
 
-**** ¿Õ¼ä¸´ÔÓ¶È
+**** ç©ºé—´å¤æ‚åº¦
 
-** Êı×éºÍÁ´±í
-*** Á·Ï°ÌâÄ¿
+** æ•°ç»„å’Œé“¾è¡¨
+*** ç»ƒä¹ é¢˜ç›®
 reverse-linked-list
 swap-nodes-in-pares
 linked-list-cycle
 linked-list-cycle-ii
 reverse-nodes-in-k-group
+
 
