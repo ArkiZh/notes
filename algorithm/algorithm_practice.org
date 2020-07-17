@@ -60,4 +60,18 @@ linked-list-cycle
 linked-list-cycle-ii
 reverse-nodes-in-k-group
 
+** 栈和队列
+valid parentheses
+implement queue using stacks
+Implement stack using queues
+
+** 优先队列
+Kth largest element in a steam 
+Sliding window maximum
+** 哈希表
+valid anagram
+two sum
+three sum
+** 二叉树
+validate binary search tree
 
