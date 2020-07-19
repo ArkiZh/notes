@@ -1,0 +1,102 @@
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
+
+* 机器学习知识模块概览
+
+** 模型评估
+旨在对训练好的模型做出评价。
+
+*** 模型指标
+- 分类模型
+  - 混淆矩阵
+  - PR曲线及F1
+  - ROC曲线及auc
+  - 风控模型区分度评估指标KS（Kolmogorov-Smirnov）
+
+- 回归模型
+
+
+*** 模型测试
+
+**** 模型健康度
+- variance problem
+- bias problem
+
+**** OOT测试
+即时间外测试(out of time test)
+- 针对时序型的模型，对训练数据时间阶段外数据的测试
+
+**** 模型稳定度
+- 在运行环境固有周期间分值分布变化对比
+
+** 模型训练
+
+- 正则化L regularization
+  - L1正则
+  - L2正则
+
+- 交叉验证
+  - 训练集、验证集、测试集拆分
+  - K折交叉验证
+  - 留一交叉验证
+
+- 超参调优
+  - 网格搜索
+  - 贝叶斯搜索
+
+** 有监督学习
+- 感知机（用于线性可分数据）
+- K近邻（可构造kd树加快搜索）
+- 朴素贝叶斯
+- 决策树
+  - ID3、C4.5、CART
+  - 剪枝
+- 逻辑回归
+- 最大熵模型
+- 支持向量机
+  - 线性可分SVM
+  - 线性SVM
+  - 非线性SVM与核技巧
+- 集成学习
+  - bagging
+    - 随机森林
+  - boosting
+    - AdaBoost
+    - GBDT
+- EM算法
+- 隐马尔可夫模型
+- 条件随机场
+
+** 无监督学习
+
+*** 聚类
+
+聚类效果的度量，样本间距离的定义。
+- 原型聚类
+  - k-means
+  - 学习向量量化(Learning Vector Quantization. LVQ)
+  - 高斯混合聚类
+- 密度聚类
+  - DBSCA(Density-Based Spatial Clustering of Application with Noise)
+- 层次聚类
+
+*** 奇异值分解
+
+*** 主成分分析
+
+*** 潜在语义分析
+
+*** 概率潜在语义分析
+
+*** 潜在狄利克雷分配
+
+*** PageRank算法
+
+*** 马尔科夫链蒙特卡罗法
+
+** 半监督学习
+
+** 特征工程
+
+*** 特征构建
+
+*** 特征选择
