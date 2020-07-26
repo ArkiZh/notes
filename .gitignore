@@ -1,0 +1,4 @@
+# How to write .gitignore? See:  https://git-scm.com/docs/gitignore
+
+# Idea cache
+.idea/
